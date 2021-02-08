@@ -86,7 +86,7 @@ mqttClient.connect("gustavoalves");
     Serial.println("o rack esta fechado");
     Serial.println(mensagem);
 
-    delay(1000);
+    
     }
     
     mqttClient.loop();
